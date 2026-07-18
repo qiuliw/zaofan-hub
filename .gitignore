@@ -1,0 +1,7 @@
+node_modules
+node_modules.pnpm
+.vitepress/dist
+.vitepress/cache
+.xlings
+artifacts
+*.tar.gz
