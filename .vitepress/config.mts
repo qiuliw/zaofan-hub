@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "zaofan hub",
+  title: "Zaofan Hub",
   description: "研究一切技术性造反的可能",
-  head: [['link', { rel: 'icon', href: '/zf-logo.svg' }]],
+  head: [['link', { rel: 'icon', href: '/zf-logo-v2.svg' }]],
   appearance: 'dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/zf-logo.svg",
+    logo: "/zf-logo-v2.svg",
     nav: [
       { text: '主页', link: '/' },
       { text: '文档', link: '/docs/base/intro.md' },
