@@ -20,13 +20,7 @@ export default defineConfig({
           { text: '常见问题', link: '/docs/base/qa.md' },
         ]
       },
-      {
-        text: '项目',
-        items: [
-          { text: '项目一览', link: '/pages/projects.md' },
-          { text: 'Whisper 文本隐写', link: 'https://whisper.zaofan.org' },
-        ]
-      },
+      { text: '项目', link: '/pages/projects.md' },
       { text: '宣言', link: '/pages/manifesto.md' },
       { text: '💬 论坛', link: 'https://forum.zaofan.org' },
     ],

@@ -1,30 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="ZF">
   <path
-    d="M63 12H161V45L106 172H161V208H59V175L115 48H63Z"
-    fill="#f59a00"
-    stroke="#171717"
-    stroke-width="8"
-    stroke-linejoin="miter"
-  />
-  <path
-    d="M12 70H208V108H140V178H102V108H56V205H18V108H12Z"
-    fill="#2474c8"
-    stroke="#171717"
-    stroke-width="8"
-    stroke-linejoin="miter"
-  />
-  <path
-    d="M118 70L101 108"
+    d="M56 26H164V60H126V92H94V126H58V194H164"
     fill="none"
     stroke="#171717"
-    stroke-width="24"
-    stroke-linecap="butt"
+    stroke-width="46"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
   />
   <path
-    d="M118 70L101 108"
+    d="M56 26H164V60H126V92H94V126H58V194H164"
     fill="none"
     stroke="#f59a00"
-    stroke-width="12"
-    stroke-linecap="butt"
+    stroke-width="28"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
+  />
+  <path
+    d="M20 82H200 M42 82V198 M116 82V158"
+    fill="none"
+    stroke="#171717"
+    stroke-width="46"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
+  />
+  <path
+    d="M20 82H200 M42 82V198 M116 82V158"
+    fill="none"
+    stroke="#2474c8"
+    stroke-width="28"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
+  />
+  <path
+    d="M126 60V104"
+    fill="none"
+    stroke="#171717"
+    stroke-width="46"
+    stroke-linecap="square"
+  />
+  <path
+    d="M126 60V104"
+    fill="none"
+    stroke="#f59a00"
+    stroke-width="28"
+    stroke-linecap="square"
   />
 </svg>
