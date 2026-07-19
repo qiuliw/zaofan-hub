@@ -4,7 +4,7 @@ layout: page
 
 <AboutLayout>
   <div class="intro-container">
-    <img src="/zf-logo-v2.svg"> </img>
+    <img src="/zf-logo.svg"> </img>
     <p class="intro-text">一个研究技术性造反及相关技术、文化、交流的社区</p>
     <p class="intro-text">隐写、私有网络、加密、去中心化、信息传递、P2P</p>
     <div class="intro-actions">

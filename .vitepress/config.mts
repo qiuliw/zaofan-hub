@@ -4,11 +4,11 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Zaofan Hub",
   description: "研究一切技术性造反的可能",
-  head: [['link', { rel: 'icon', href: '/zf-logo-v2.svg' }]],
+  head: [['link', { rel: 'icon', href: '/zf-logo.svg' }]],
   appearance: 'dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/zf-logo-v2.svg",
+    logo: "/zf-logo.svg",
     nav: [
       { text: '主页', link: '/' },
       {

@@ -33,7 +33,7 @@ hero:
   :coreTeam="[
     {
       name: 'Zaofan Hub',
-      avatar: '/zf-logo-v2.svg',
+      avatar: '/zf-logo.svg',
       bio: '技术性造反社区',
       projects: [
         { name: 'Whisper - 文本隐写项目', link: 'https://whisper.zaofan.org' },
@@ -43,7 +43,7 @@ hero:
     },
     {
       name: '欢迎加入',
-      avatar: '/zf-logo-v2.svg',
+      avatar: '/zf-logo.svg',
       bio: '快来加入我们吧...',
       projects: [
         { name: '了解社区', link: '/docs/base/intro.html' },
@@ -52,7 +52,7 @@ hero:
     },
     {
       name: '欢迎加入',
-      avatar: '/zf-logo-v2.svg',
+      avatar: '/zf-logo.svg',
       bio: '快来加入我们吧...',
       projects: [
         { name: '浏览社区项目', link: '/pages/projects.html' },
@@ -61,7 +61,7 @@ hero:
     },
     {
       name: '欢迎加入',
-      avatar: '/zf-logo-v2.svg',
+      avatar: '/zf-logo.svg',
       bio: '快来加入我们吧...',
       projects: [
         { name: '阅读加密朋克宣言', link: '/pages/manifesto.html' },
@@ -72,7 +72,7 @@ hero:
   :vTeam="[
     {
       name: '欢迎加入',
-      avatar: '/zf-logo-v2.svg',
+      avatar: '/zf-logo.svg',
       bio: '快来加入我们吧...',
       projects: [
         { name: '隐写与文本隐写', link: 'https://whisper.zaofan.org' },
@@ -81,7 +81,7 @@ hero:
     },
     {
       name: '欢迎加入',
-      avatar: '/zf-logo-v2.svg',
+      avatar: '/zf-logo.svg',
       bio: '快来加入我们吧...',
       projects: [
         { name: '加密与私有网络', link: '/docs/base/quick-start.html' },
@@ -90,7 +90,7 @@ hero:
     },
     {
       name: '欢迎加入',
-      avatar: '/zf-logo-v2.svg',
+      avatar: '/zf-logo.svg',
       bio: '快来加入我们吧...',
       projects: [
         { name: '去中心化与 P2P', link: '/docs/base/quick-start.html' },
@@ -99,7 +99,7 @@ hero:
     },
     {
       name: '欢迎加入',
-      avatar: '/zf-logo-v2.svg',
+      avatar: '/zf-logo.svg',
       bio: '快来加入我们吧...',
       projects: [
         { name: '信息传递与协议研究', link: '/docs/base/quick-start.html' },
