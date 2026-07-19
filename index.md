@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Zaofan Hub"
-  text: "造反爱好者社区"
+  text: "造反社区"
   tagline: 研究一切技术性造反的可能
   actions:
     - theme: brand
@@ -34,7 +34,7 @@ hero:
     {
       name: 'Zaofan Hub',
       avatar: '/zf-logo-v2.svg',
-      bio: '技术性造反爱好者社区',
+      bio: '技术性造反社区',
       projects: [
         { name: 'Whisper - 文本隐写项目', link: 'https://whisper.zaofan.org' },
         { name: 'Zaofan Hub', link: 'https://zaofan.org' },
